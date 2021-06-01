@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'Address_Book',
+    'Address_Book_API'
 ]
 
 MIDDLEWARE = [
